@@ -5,7 +5,7 @@ categories:
   - Update
 tags:
   - perkenalan
-  - tentang
+  - bio
 header:
   teaser: /assets/images/welcome-teaser.jpg
 excerpt: "Akhirnya punya tempat untuk mengumpulkan semua konten - dari tips kesehatan sampai cerita traveling, dari rekaman webinar sampai resep keluarga."
